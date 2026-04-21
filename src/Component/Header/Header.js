@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css'
 import { NavLink } from 'react-router-dom';
-import About from '../../pages/About';
+
 
 function Header() {
   let navitems=[{id:1,
