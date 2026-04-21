@@ -1,0 +1,40 @@
+.banner{
+    display: flex;
+     justify-content: space-between;
+    background-color: #333;
+    height: 444px;
+}
+.banner-left{
+     font-family: 'Epilogue', sans-serif;
+     margin: 40px;
+}
+.banner-left1{
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.banner-left2{
+    font-size: 100px;
+    margin-top: -5px;
+    margin-bottom:-15px;
+}
+.banner-left3{
+    font-size: 17px;
+    font-family: sans-serif ;
+    font-weight: 300;
+    line-height: 27px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    
+}
+.button{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    height: 70px;
+    width: 240px;
+}
+.banner-image{
+   display: flex;
+   align-items: center;
+   margin-right: 100px;
+}

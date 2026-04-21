@@ -1,0 +1,12 @@
+.logo{
+    height: 130px;
+}
+.logos{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin:48px 68px 48px 68px;
+}
+.logobar1{
+    display: flex;
+}

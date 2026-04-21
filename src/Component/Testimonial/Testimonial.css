@@ -1,0 +1,63 @@
+.sixth-nav{
+    height: 852px;
+    
+}
+.sixth-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.review{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 35px;
+    padding-left: 45px;
+    color: #eee8e8;
+}
+.profile{
+    height: 330px;
+    width: 442px;
+    background-color: grey;
+}
+.profile-text{
+    height: 90PX;
+    width: 310PX;
+    font-family: 'Epilogue', sans-serif;
+}
+.p1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.profile-photo{
+    padding-left: 60px;
+    padding-top: 45px;
+}
+.Star{
+    margin-top: -45px;
+    margin-left: 125px;
+    margin-bottom: 10px;
+}
+.star{
+    margin-left: 9px;
+}
+.profile-name{
+     display: flex;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 125px;
+    margin-top: 0px;
+}
+.google{
+    display: flex;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    padding-left: 125px;
+    margin-top: -4px;
+}

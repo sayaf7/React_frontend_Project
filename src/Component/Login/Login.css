@@ -1,0 +1,52 @@
+.seventh-nav{
+    height: 426px;
+    background-color: gray;
+}
+.seventh-text{
+    display: flex;
+    justify-content: start;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+     color: #eee8e8;
+}
+.second-desc{
+    padding-left: 40px;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 29px;
+    padding-top: 20px;
+}
+.from{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 40px;
+    margin-top: -100px;
+}
+.name input{
+  width: 600px;
+  height: 40px;
+  margin-bottom: 12px;
+}
+.email input {
+  width: 600px;
+  height: 40px;
+  margin-bottom: 20px;
+}
+.button{
+    height: 60px;
+    width: 200px;
+}
+.applogos{
+    margin-top: -100px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+}

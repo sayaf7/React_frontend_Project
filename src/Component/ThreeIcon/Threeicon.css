@@ -1,0 +1,57 @@
+.fourth-nav{
+    height: 513px;
+     background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.box1{
+    margin: 24px 42px 24px 42px;
+    background-color: grey;
+    height: 429px;
+    width: 490px;
+}
+.angle{
+   margin-top: 80px;
+   margin-left: 150px ;
+   position: absolute
+ 
+}
+.arrow3{
+      position: relative;
+      left: 180px;
+      top: 120px;
+  
+}
+.angle-heading{
+    display: flex;
+    margin-top: 180px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Epilogue', sans-serif;
+    font-size: 600;
+    font-size: 27px;
+    line-height: 42px;
+}
+.arrow5{
+    position: relative;
+      left: 220px;
+      top: 90.2px;
+}
+.arrow7{
+    position: relative;
+      left: 140px;
+      top: 150px;
+}
+.angle-desc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 17px;
+    color: rgb(224, 219, 219);
+    text-align: center;
+}

@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+    background-color: black;
+    color: oklab(95.07600000000001% 0.00619 0.00181);
+    margin: 0;
+}

@@ -1,0 +1,28 @@
+.head-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -10px;
+    margin-left: 24px;
+    margin-right: 24px;
+    height: 78px;
+}
+.logo{
+     font-family: 'Epilogue', sans-serif;
+     size: 20px;
+     line-height: 30px;
+     margin-top: 70px;
+}
+.menu{
+    display: flex;
+    gap: 24px;
+    font-family: 'Epilogue', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 25px;
+    margin-top: 10px;
+}
+.about{
+    color: white;
+    text-decoration: none;
+}
